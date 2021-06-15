@@ -1,6 +1,5 @@
 package example01;
 
-import io.cucumber.datatable.internal.difflib.StringUtills;
 import org.junit.Assert;
 
 import java.util.AbstractMap;
